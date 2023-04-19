@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá! sou a Jasminy Duarte 👋
 
-<!--
-**jasminyduarte/jasminyduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando com desenvolvimento Ios.
+- 🌱 Já trabalhei muitos anos como Full-Stack.
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img aling="center" alt"jas-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+  <img aling="center" alt"jas-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img aling="center" alt"jas-Apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##
+          
