@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando com desenvolvimento Ios.
 - 🌱 Já trabalhei muitos anos como Full-Stack.
 
-## Languages
+## Languages and Framework
 
 <table>
   <tbody>
@@ -15,6 +15,10 @@
       <td width="25%" align="center">
         <span>JavaScript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+            <td width="25%" align="center">
+        <span>Java</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -29,6 +33,20 @@
        <td width="25%" align="center">
         <span>Ionic</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ionic.svg">
+      </td>
+    </tr>
+     <tr valign="top">
+      <td width="25%" align="center">
+        <span>Fastlane</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/fastlane.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Angular</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
+      </td>
+            <td width="25%" align="center">
+        <span>Vapor</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vapor.svg">
       </td>
     </tr>
   </tbody>
