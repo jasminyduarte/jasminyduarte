@@ -1,6 +1,6 @@
 ### Olá! sou a Jasminy Duarte 👋
 
-- 🌱 Olá me chamo Jasminy Duarte,  Trabalho com programação uns 6 anos já, tenho competência com desenvolvimento Full-Stack, porém atualmente uns 3 anos estou atuando com Desenvolvimento Mobile nativo usando tecnologia Swift. Mas já trabalhei com React e Flutter com arquitetura modular e outras tecnologias.
+- 🌱 Hello, my name is Jasminy Duarte, I have been working with programming for around 6 years, I have competence with Full-Stack development, but currently for around 3 years I have been working with native Mobile Development using Swift technology. But I've already worked with React and Flutter with modular architecture and other technologies.
 
 ## Languages and Framework
 
